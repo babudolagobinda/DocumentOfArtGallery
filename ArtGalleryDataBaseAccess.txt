@@ -1,0 +1,7 @@
+DataBase Name :ArtGalleryEcommerce
+Server Name :148.72.232.167:1433 (default for MS SQL, v12.0.6205)
+Server Name2 :148.72.232.167
+User Name :chandnicreativeart
+Password :Cybria@0909
+
+
